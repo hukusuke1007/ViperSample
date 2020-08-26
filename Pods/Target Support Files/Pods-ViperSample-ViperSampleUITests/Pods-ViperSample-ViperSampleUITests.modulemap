@@ -1,0 +1,6 @@
+framework module Pods_ViperSample_ViperSampleUITests {
+  umbrella header "Pods-ViperSample-ViperSampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
